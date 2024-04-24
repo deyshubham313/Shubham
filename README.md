@@ -1,6 +1,5 @@
-![logo]()
-<h1 align="center">Hi 👋, I'm Shubham Dey</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+![logo](https://github.com/deyshubham313/Shubham/blob/main/Screenshot%202024-04-24%20060750.png)
+<h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding" with="300" height="350"src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyshubham313&label=Profile%20views&color=0e75b6&style=flat" alt="deyshubham313" /> </p>
 
